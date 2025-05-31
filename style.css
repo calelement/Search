@@ -1,3 +1,10 @@
+.navlink {
+  color: beige;
+  position: absolute;
+  top: 0;
+  right: 0; }
 
+.navlink:hover {
+  text-decoration: underline; }
 
 /*# sourceMappingURL=style.css.map */
