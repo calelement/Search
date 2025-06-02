@@ -18,4 +18,9 @@
 .srcbox:hover {
   text-decoration: underline; }
 
+.centered {
+  text-align: center;
+  position: relative;
+  top: 50vh; }
+
 /*# sourceMappingURL=style.css.map */
