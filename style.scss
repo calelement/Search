@@ -41,15 +41,14 @@
     top:50vh;
 }
 
-// .advance{
-//     text-align:center;
-//     position: relative;
-//     top: 25vh;
+.advance{
+    display: grid;
+    margin: 20px;
+    padding: 10px;
+    gap: 20px;
+    text-align:left;
+    // position: relative;
+    // top: 25vh;
 
-//     label{
-//         text-align: left;
-//     }
-// }
-// .navlink:hover{
-//     text-decoration: underline;
-// }
+
+}

@@ -23,4 +23,11 @@
   position: relative;
   top: 50vh; }
 
+.advance {
+  display: grid;
+  margin: 20px;
+  padding: 10px;
+  gap: 20px;
+  text-align: left; }
+
 /*# sourceMappingURL=style.css.map */
