@@ -10,12 +10,30 @@
 
 // Links on upper right and make them blue
 .navlink{
+    display: block;
     position: absolute;
     top: 0;
     right: 0;
+    text-decoration:none;
+    font-family: arial, sans-serif;
+    margin:20px;
+    padding: 10px;
+    gap: 4px;
+
+
+    .srcbox{
+        text-decoration: none;
+        color:black;
+    }
 }
 
-.navlink:hover{
-    text-decoration: underline;
-
+.srcbox:visited{
+    text-decoration: none;
 }
+
+.srcbox:hover{
+    text-decoration:underline;
+}
+// .navlink:hover{
+//     text-decoration: underline;
+// }

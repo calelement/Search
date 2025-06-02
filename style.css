@@ -1,9 +1,21 @@
 .navlink {
+  display: block;
   position: absolute;
   top: 0;
-  right: 0; }
+  right: 0;
+  text-decoration: none;
+  font-family: arial, sans-serif;
+  margin: 20px;
+  padding: 10px;
+  gap: 4px; }
+  .navlink .srcbox {
+    text-decoration: none;
+    color: black; }
 
-.navlink:hover {
+.srcbox:visited {
+  text-decoration: none; }
+
+.srcbox:hover {
   text-decoration: underline; }
 
 /*# sourceMappingURL=style.css.map */
